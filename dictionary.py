@@ -3,11 +3,11 @@ from difflib import get_close_matches
 
 data = json.load(open("data.json"))
 
-print("\n\t\tDictionary Using Python\n\t\t\tcoded By D4az \n\n")
+print("\n\t\tDictionary Using Python\n\t\t\tCoded By D4az \n\n")
 
 
     
-word = input("What Do You Wanna Look ? : ")
+word = input("whats The Word You Wanna Look ? : ")
 word = word.lower()
 
 def getMeaning(w):
