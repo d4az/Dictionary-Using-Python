@@ -7,7 +7,7 @@ print("\n\t\tDictionary Using Python\n\t\t\tCoded By D4az \n\n")
 
 
     
-word = input("whats The Word You Wanna Look ? : ")
+word = input("Whats The Word You Wanna Look ? : ")
 word = word.lower()
 
 def getMeaning(w):
