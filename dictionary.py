@@ -3,7 +3,7 @@ from difflib import get_close_matches
 
 data = json.load(open("data.json"))
 
-print("\n\t\tDictionary Using Python\n\t\t\tCoded By D4az \n\n")
+print("\n\t\tDictionary by using Python\n\t\t\tCoded By D4az \n\n")
 
 
     
