@@ -16,6 +16,7 @@ def getMeaning(w):
         print("did you mean %s insted enter Y if yes or else enter N :"%close_match)
         choice = input()
         choice=choice.lower()
+        
         if(choice == 'y'):
             return data[close_match]
         else:
