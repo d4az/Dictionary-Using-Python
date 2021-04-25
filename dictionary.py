@@ -7,7 +7,6 @@ print("\n\t\tDictionary by using Python\n\t\t\tCoded By D4az \n\n")
 word = input("Whats The Word You Wanna Look ? : ")
 word = word.lower()
 
-
 def getMeaning(w):
     
     if w in data:
